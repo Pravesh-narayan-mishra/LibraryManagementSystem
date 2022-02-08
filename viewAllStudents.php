@@ -127,6 +127,7 @@
         <div id="logout">
             <a href="http://localhost/gitHub/libraryManagementSystem/collegeLogout.php">Logout</a>
         </div>
+        <br/>
     </body>
 </html>
    
